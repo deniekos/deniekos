@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @deniekos
 - 🌱 Mostly coding in Java, Kotlin, and Javascript. But eager to learn other programming languages
 - 📫 reach me via email deni@engineer.com or denieko.dev@gmail.com
